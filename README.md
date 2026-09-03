@@ -4,8 +4,6 @@
 
 
 
-Christopher Nguyen
-
 Data Science 80 — UC San Diego
 
 
