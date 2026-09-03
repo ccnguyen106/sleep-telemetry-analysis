@@ -1,2 +1,16 @@
 # sleep-telemetry-analysis
-Analyzing the relationship between pre-bed physical activity and nocturnal sleep restlessness using the ExtraSensory dataset for DSC 80 at UC San Diego.
+
+### Analyzing the Impact of Pre-Bed Physical Activity on Sleep Restlessness
+
+
+
+Christopher Nguyen
+
+Data Science 80 — UC San Diego
+
+
+
+### Project Overview
+
+This project examines the relationship between evening physical activity recorded via smartphone accelerometer telemetry and nocturnal sleep restlessness recorded via smartwatch sensors.
+
